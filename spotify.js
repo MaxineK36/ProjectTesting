@@ -59,7 +59,7 @@
 //
 // })();
 //
-
+console.log("10:36");
 var myclientID = "5007bed4efe44af1a61cc908636d179e"
 var myurl = "https://maxinek36.github.io/SpotifyTest/"
 function getQueryData(url, type){
