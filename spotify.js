@@ -67,7 +67,8 @@ function getQueryData(url, type){
   var request = new XMLHttpRequest();
 
   request.open(type,query,true);
-  request.setRequestHeader('Access-Control-Allow-Headers', '*file:///C:/Users/SYFGWC25/Desktop/spotifyapi.html');
+  request.setRequestHeader('Access-Control-Allow-Headers', '*');
+ 
   // request.setRequestHeader('Access-Control-Allow-Credentials', 'true');
 
   request.send();
