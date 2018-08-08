@@ -61,7 +61,7 @@
 //
 
 var myclientID = "5007bed4efe44af1a61cc908636d179e"
-var myurl = "file:///C:/Users/SYFGWC25/Desktop/spotifyapi.html"
+var myurl = "https://maxinek36.github.io/SpotifyTest/"
 function getQueryData(url, type){
   var query = url;
   var request = new XMLHttpRequest();
